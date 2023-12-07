@@ -14,7 +14,7 @@ const Tibo = ({ couleur }) => {
                 Je suis un composant
             </div>
             <div>
-                <button onClick={changeColor}>Changer la couleur</button>
+                <button onClick={changeColor}>Changer la couleur.</button>
             </div>
         </div>
     );
