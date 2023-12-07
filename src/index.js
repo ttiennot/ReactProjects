@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 //import Exo29 from './exo29/Exo29a';
-import Exo29 from './exo29/Exo29b';
+import Exo30b from './exo30/Exo30b';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Exo29 />
+    <Exo30b />
   </React.StrictMode>
 );
 
