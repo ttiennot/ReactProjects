@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import Exo29 from './exo29/Exo29a';
+import Exo29 from './exo29/Exo29b';
 import reportWebVitals from './reportWebVitals';
-import Tibo from './composant/tibo';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Tibo couleur = {'red'}/>
+    <Exo29 />
   </React.StrictMode>
 );
 
